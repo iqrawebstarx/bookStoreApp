@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "category": "Free",
+    "imageUrl": "https://img.freepik.com/free-photo/book-cover-template_1232-123.jpg",
+    "title": "Free Book 1",
+    "description": "A great free book about programming.",
+    "isNew": true,
+    "tags": ["Programming", "Free"]
+  },
+  {
+    "id": 2,
+    "category": "Free",
+    "imageUrl": "https://img.freepik.com/free-photo/book-cover-template_1232-456.jpg",
+    "title": "Free Book 2",
+    "description": "An insightful book on web development.",
+    "isNew": true,
+    "tags": ["Web Development", "Free"]
+  },
+  {
+    "id": 3,
+    "category": "Free",
+    "imageUrl": "https://img.freepik.com/free-photo/book-cover-template_1232-789.jpg",
+    "title": "Free Book 3",
+    "description": "Learn about design patterns in software engineering.",
+    "isNew": true,
+    "tags": ["Software Engineering", "Free"]
+  }
+]

@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/open-book-library-with-blur-bookshelf-background_1232-123.jpg",
+      "title": "Book 1: Introduction to Programming",
+      "description": "Learn the basics of programming with this comprehensive guide.",
+      "isNew": true,
+      "tags": ["Programming", "Free"]
+    },
+    {
+      "id": 2,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/stack-books-library_1232-234.jpg",
+      "title": "Book 2: Web Development Essentials",
+      "description": "A must-read for aspiring web developers.",
+      "isNew": true,
+      "tags": ["Web Development", "Free"]
+    },
+    {
+      "id": 3,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/book-open-blank-white_1232-345.jpg",
+      "title": "Book 3: Advanced JavaScript",
+      "description": "Deep dive into advanced JavaScript concepts.",
+      "isNew": true,
+      "tags": ["JavaScript", "Free"]
+    },
+    {
+      "id": 4,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/hand-open-book_1232-456.jpg",
+      "title": "Book 4: Python Programming",
+      "description": "Master Python programming with this detailed guide.",
+      "isNew": true,
+      "tags": ["Python", "Free"]
+    },
+    {
+      "id": 5,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/book-hard-cover_1232-567.jpg",
+      "title": "Book 5: Machine Learning Basics",
+      "description": "An introduction to machine learning concepts and techniques.",
+      "isNew": true,
+      "tags": ["Machine Learning", "Free"]
+    },
+    {
+      "id": 6,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/book-cover-design_1232-678.jpg",
+      "title": "Book 6: Data Science for Beginners",
+      "description": "A beginner's guide to data science and analytics.",
+      "isNew": true,
+      "tags": ["Data Science", "Free"]
+    },
+    {
+      "id": 7,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/stack-colorful-books_1232-789.jpg",
+      "title": "Book 7: Full Stack Development",
+      "description": "Learn full stack development with hands-on examples.",
+      "isNew": true,
+      "tags": ["Full Stack", "Free"]
+    },
+    {
+      "id": 8,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/book-pages_1232-890.jpg",
+      "title": "Book 8: Cloud Computing Essentials",
+      "description": "Understand the basics of cloud computing.",
+      "isNew": true,
+      "tags": ["Cloud Computing", "Free"]
+    },
+    {
+      "id": 9,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/book-titles_1232-901.jpg",
+      "title": "Book 9: Cybersecurity Fundamentals",
+      "description": "Learn about the fundamentals of cybersecurity.",
+      "isNew": true,
+      "tags": ["Cybersecurity", "Free"]
+    },
+    {
+      "id": 10,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/reading-book-hands_1232-012.jpg",
+      "title": "Book 10: Artificial Intelligence",
+      "description": "An introduction to artificial intelligence and its applications.",
+      "isNew": true,
+      "tags": ["AI", "Free"]
+    },
+    {
+      "id": 11,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/reading-book-glasses_1232-123.jpg",
+      "title": "Book 11: Blockchain Technology",
+      "description": "Understand blockchain technology and its potential.",
+      "isNew": true,
+      "tags": ["Blockchain", "Free"]
+    },
+    {
+      "id": 12,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/book-cafe_1232-234.jpg",
+      "title": "Book 12: DevOps Practices",
+      "description": "Learn about DevOps practices and tools.",
+      "isNew": true,
+      "tags": ["DevOps", "Free"]
+    },
+    {
+      "id": 13,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/reading-book-wooden-table_1232-345.jpg",
+      "title": "Book 13: Software Engineering Principles",
+      "description": "A comprehensive guide to software engineering principles.",
+      "isNew": true,
+      "tags": ["Software Engineering", "Free"]
+    },
+    {
+      "id": 14,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/old-books_1232-456.jpg",
+      "title": "Book 14: Agile Methodologies",
+      "description": "Learn about agile methodologies in software development.",
+      "isNew": true,
+      "tags": ["Agile", "Free"]
+    },
+    {
+      "id": 15,
+      "category": "Free",
+      "imageUrl": "https://img.freepik.com/free-photo/book-shelf_1232-567.jpg",
+      "title": "Book 15: Big Data Analytics",
+      "description": "An introduction to big data analytics and tools.",
+      "isNew": true,
+      "tags": ["Big Data", "Free"]
+    }
+  ]
+  
